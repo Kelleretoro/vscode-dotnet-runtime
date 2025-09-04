@@ -47,7 +47,7 @@
 		"axios-retry": "^3.4.0",
 		"chai": "4.3.4",
 		"chai-as-promised": "^7.1.1",
-		"eol": "^0.9.1",
+		"eol": "^0.10.0",
 		"get-proxy-settings": "^0.1.13",
 		"https-proxy-agent": "^7.0.4",
 		"lodash": "^4.17.21",
